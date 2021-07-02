@@ -32,4 +32,6 @@ jobs:
       #- name: Test with pytest
       #  run: pytest
       #- name: Run doctests with pytest
-      #  run: pytest --doctest-modules
+      #  Run Install
+
+in.
